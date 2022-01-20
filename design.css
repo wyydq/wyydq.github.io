@@ -1,0 +1,85 @@
+.jett
+{
+	width: 500px;
+	height: 800px;
+	border-width: 1px;
+}
+.jettka
+{
+	display: block;
+	margin: auto;
+	position: absolute;
+	left: 20px;
+	padding: 20px;
+}
+.jett1
+{
+	padding: 0;
+    margin-left: 750px;
+    margin-top: 30px;
+}
+.viperka
+{
+	display: block;
+	margin: auto;
+	position: absolute;
+	left: 20px;
+	padding: 20px;
+}
+
+.cypherka
+{
+	display: block;
+	margin: auto;
+	position: absolute;
+	left: 20px;
+	padding: 20px;
+	clear: left;
+}
+.cypher
+{
+	margin-top: 200px;
+	clear: left;
+}
+.sova
+{
+	margin-top: 200px;
+}
+.sovenok
+{
+	display: block;
+	margin: auto;
+	position: absolute;
+	left: 20px;
+	padding: 20px;
+}
+.Button
+{
+	float: none;
+	margin-top: 10px;
+	margin-left: 645px;
+}
+.agents
+{
+	float: none;
+	margin-left: 30px;
+}
+.video
+{
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.valicon
+{
+	float: none;
+	width: 470px;
+	margin-left: 1090px;
+	margin-right: auto;
+	position: absolute;
+	display: block;
+	margin-top: -170px;
+
+
+}
